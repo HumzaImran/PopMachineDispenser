@@ -19,7 +19,7 @@ int nicklechange(int i) {
 	result =(i%dime)/nickle;
 	return result;
 }
-
+ 
 int  main(int argc, char *argv[])
 {
 	int i=0, pop=0, d, n;
