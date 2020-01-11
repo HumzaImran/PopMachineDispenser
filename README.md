@@ -2,7 +2,7 @@
 Welcome to my C pop machine. In this program a pop will be dispensed once the correct amount of money is provided.
 The user is responsible for pricing pops. 
 
-##Functions
+## Functions
 To set the price of a pop an amount must be entered in the command line while executing the program. The amount entered
 should be in cents.
 
