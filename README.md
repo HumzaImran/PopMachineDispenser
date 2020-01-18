@@ -10,4 +10,4 @@ should be in cents.
 
 Any combinations of quarters ('Q', 'q') , dimes ('D', 'd'), and nickels ('N', 'n') can be entered to retrieve the pop. There is not limit on the number of quarters, dimes, or nickels available to the user.  
 
-'E', or 'e' can be entered at any time to exit the program. 
+'E' or 'e' can be entered at any time to exit the program. 
