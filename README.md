@@ -17,7 +17,7 @@ The code above would assign each pop to be 100 cents.
 To purchase the pop any combinations of quarters, dimes, and nickels can be entered to retrieve the pop. There is not limit on the number of quarters, dimes, or nickels available to the user.  
 The letter ‘Q’ represent quarters.    
 The letter ‘D’ represent dimes.     
-The letter ‘N’represent nickels.     
+The letter ‘N’ represent nickels.     
 'E' can be entered at any time to exit the program.  
 None of the letters are case sensitive  
 
