@@ -1,4 +1,4 @@
-# PopMachineDispenser
+# Pop Machine Dispenser
 
 ## About 
 Welcome to my C pop machine. The goal of this program is to price and purchase a pop. In this program a pop will be dispensed once the correct amount of money is entered. The user is responsible for pricing and purchasing the pop.
